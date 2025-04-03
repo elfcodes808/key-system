@@ -1,8 +1,5 @@
 local validKeys = {
-    "P7nQ0UX2btR6qs5c",
-    "SU4B0Ag3NTsSIDRK",
-    "lhKbVo7hMBynw3JT"
-    "DevKey1205htg920"
+    "Key123",
 } -- Add more valid keys as needed
 
 local function isValidKey(inputKey)
