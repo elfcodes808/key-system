@@ -30,7 +30,7 @@ local function loadProtectedScript()
     -- The actual script to execute
     return [[
         print("Key is valid! Executing script...")
-        https://raw.githubusercontent.com/elfcodes808/scripty/refs/heads/main/printsys
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/elfcodes808/scripty/refs/heads/main/printsys.lua"))()
     ]]
 end
 
